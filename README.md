@@ -47,6 +47,8 @@ See `WestAfrica_FTZ_Findings_Report.docx` for detailed analysis of Free Trade Zo
 
 Built for research on regional integration, investment targeting, and policy simulation in West Africa. The synthetic approach allows stress‑testing scenarios without sensitive real data.
 
+Link - https://github.com/Meugenn/west-africa-data
+
 ## License
 
 Internal research tool. Contact for collaboration.
