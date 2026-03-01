@@ -2,6 +2,8 @@
 
 A synthetic data pipeline and dashboard for infrastructure, trade, and economic indicators across West African countries.
 
+Link 🔗 - https://dashboard-amber-beta.vercel.app/
+
 ## Overview
 
 This project generates plausible synthetic datasets for 18 West African countries (+ external comparators) across multiple dimensions:
